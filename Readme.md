@@ -6,4 +6,4 @@ Privacy-Preserving Aggregation: In scenarios where multiple parties want to aggr
 Secure Multi-Party Computation (MPC): Zero-Knowledge Proofs can also be combined with Secure Multi-Party Computation techniques to enable privacy-preserving machine learning across multiple parties. MPC allows parties to jointly compute a function over their inputs while keeping those inputs private. Zero-Knowledge Proofs can be used within MPC protocols to ensure that each party's input is valid without revealing the input itself.
 Data Ownership Verification: Zero-Knowledge Proofs can be used to verify ownership of data without revealing the data itself. This can be useful in scenarios where parties want to prove that they possess certain data without disclosing the data content.
 
-Contract deployed at Arbitrum Sepolia https://sepolia.arbiscan.io/address/0xd18E7e8fE5A6d3d99004e4C4E2e699c25C7E7Ec9
+Contract deployed on Presto Scavanger rollup (https://sn2-stavanger-blockscout.eu-north-2.gateway.fm/address/0xD1998CA0000f01442f54Ca8bF35017f43aa6ef26)
